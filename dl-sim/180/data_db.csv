@@ -18,8 +18,8 @@
 8733,_c_Aoi,3*,flame,blade,5537,[Resounding_Rendition+Elegant_Escort][Konohana_Sakuya][Agito],!<hp70 & 0 burn res>,,attack:2681,skill_1:4226,s1_burn:0,skill_2:1825,s2_burn:0
 8911,Audric,4*,shadow,sword,4901,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi][Agito],<hp70>,,attack:1997,force_strike:612,skill_1:4288,skill_2:2011
 8226,_c_Audric,4*,shadow,sword,4524,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi][Agito],!<hp70>,,attack:1844,force_strike:565,skill_1:3959,skill_2:1857
-7815,Beautician_Zardin,5*,light,blade,7089,[Resounding_Rendition+Beautiful_Nothingness][Cupid][HDT2],<hp70>,no s2,attack:2822,skill_1:3394,skill_3:1299,team_buff:298
-6176,_c_Beautician_Zardin,5*,light,blade,6672,[Resounding_Rendition+Beautiful_Nothingness][Cupid][HDT2],!<hp70>,no s2,attack:2530,skill_1:2418,skill_3:929,team_buff:298
+751633246,Beautician_Zardin,5*,light,blade,7089,[Resounding_Rendition+Beautiful_Nothingness][Cupid][HDT2],<hp70>,no s2,attack:282267416,skill_1:339428757,skill_3:129936773,team_buff:298
+587766658,_c_Beautician_Zardin,5*,light,blade,6672,[Resounding_Rendition+Beautiful_Nothingness][Cupid][HDT2],!<hp70>,no s2,attack:253002043,skill_1:241816301,skill_3:92948013,team_buff:298
 8206,Berserker,4*,shadow,sword,9168,[The_Shining_Overlord+Jewels_of_the_Sun][Fatalis][Agito],<last offense & hp70>,,attack:2986,force_strike:1047,skill_1:4171
 7606,_c_Berserker,4*,shadow,sword,6681,[The_Shining_Overlord+Jewels_of_the_Sun][Fatalis][Agito],!<last offense & hp70>,,attack:2767,force_strike:971,skill_1:3866
 17389,Botan,4*,shadow,lance,5068,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi][Agito],<buff all team & hp70>,,attack:2599,skill_1:5168,s1_bleed:5502,team_buff:4118
