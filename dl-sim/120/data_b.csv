@@ -164,8 +164,8 @@
 6655,_c_Orion,4*,shadow,dagger,6701,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15>,,attack:2391,force_strike:348,skill_1:2613,skill_2:1300
 7244,Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<hit15 & hp70>,,attack:1570,force_strike:315,skill_1:2912,skill_2:1244,skill_3:1200
 5265,_c_Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<hit15 & hp70>,,attack:1153,force_strike:231,skill_1:2109,skill_2:901,skill_3:869
-6405,Philia,3*,wind,bow,5780,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,44% paralysis uptime,attack:2205,skill_1:2081,skill_2:788,s2_paralysis:172,skill_3:1157
-4550,_c_Philia,3*,wind,bow,5419,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,,attack:1619,skill_1:1515,skill_2:584,s2_paralysis:0,skill_3:830
+34392142894483,Philia,3*,wind,bow,361301806,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,41% paralysis uptime,attack:11383768657365,skill_1:10085098520888,skill_2:4279108584872,s2_paralysis:827571887000,skill_3:4865484104825,dx:975149767844,ds:1975961371685
+457695180,_c_Philia,3*,wind,bow,5419,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,,attack:155232036,skill_1:137523011,skill_2:58351048,s2_paralysis:0,skill_3:66346979,dx:13297390,ds:26944712
 5871,Pia,4*,wind,lance,5870,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],<maintain shield & hp70>,,attack:1875,force_strike:230,skill_1:2608,skill_3:950,team_energy:206
 4529,_c_Pia,4*,wind,lance,5503,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],!<maintain shield & hp70>,,attack:1436,force_strike:178,skill_1:1995,skill_3:712,team_energy:206
 5667,Pietro,3*,water,axe,4442,[Kung_Fu_Masters+Flower_in_the_Fray][Siren][HDT2],<>,,attack:1777,force_strike:188,skill_1:2852,skill_3:848

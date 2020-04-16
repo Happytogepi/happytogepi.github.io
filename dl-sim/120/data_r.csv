@@ -164,8 +164,8 @@
 7124,_c_Orion,4*,shadow,dagger,6701,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15>,,attack:2596,force_strike:348,skill_1:2851,skill_2:1327
 8047,Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<hit15 & hp70>,,attack:1570,force_strike:315,skill_1:3349,skill_2:1431,skill_3:1380
 5847,_c_Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<hit15 & hp70>,,attack:1153,force_strike:231,skill_1:2425,skill_2:1036,skill_3:999
-7035,Philia,3*,wind,bow,5780,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,44% paralysis uptime,attack:2205,skill_1:2393,skill_2:906,s2_paralysis:198,skill_3:1331
-4990,_c_Philia,3*,wind,bow,5419,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,,attack:1619,skill_1:1742,skill_2:672,s2_paralysis:0,skill_3:955
+48131357935274,Philia,3*,wind,bow,397431987,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hit10 & hp30 every 180s & 0 paralysis res>,42% paralysis uptime,attack:14522018715175,skill_1:14777189809161,skill_2:6269963515151,s2_paralysis:1295290522516,skill_3:7129150199331,dx:1242467930538,ds:2895277243399
+585795442,_c_Philia,3*,wind,bow,5961,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hit10 & hp30 every 180s & 0 paralysis res>,,attack:181872962,skill_1:184713450,skill_2:78373963,s2_paralysis:0,skill_3:89113664,dx:15530724,ds:36190676
 6046,Pia,4*,wind,lance,5870,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],<maintain shield & hp70>,,attack:2124,force_strike:208,skill_1:2623,skill_3:881,team_energy:207
 4673,_c_Pia,4*,wind,lance,5503,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],!<maintain shield & hp70>,,attack:1629,force_strike:162,skill_1:2013,skill_3:660,team_energy:207
 6313,Pietro,3*,water,axe,4442,[Kung_Fu_Masters+Flower_in_the_Fray][Siren][HDT2],<>,,attack:1847,force_strike:228,skill_1:3265,skill_3:971

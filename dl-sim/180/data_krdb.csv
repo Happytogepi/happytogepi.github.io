@@ -164,8 +164,8 @@
 7946,_c_Orion,4*,shadow,dagger,6701,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15>,,attack:2929,force_strike:398,skill_1:3301,skill_2:1582
 8847,Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<hit15 & hp70>,,attack:1905,force_strike:347,skill_1:3678,skill_2:1572,skill_3:1516
 6421,_c_Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<hit15 & hp70>,,attack:1392,force_strike:254,skill_1:2663,skill_2:1138,skill_3:1097
-8357,Philia,3*,wind,bow,5780,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,44% paralysis uptime,attack:2856,skill_1:2724,skill_2:1144,s2_paralysis:232,skill_3:1659
-5895,_c_Philia,3*,wind,bow,5419,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,,attack:2081,skill_1:1974,skill_2:837,s2_paralysis:0,skill_3:1190
+45360171525069,Philia,3*,wind,bow,361301806,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,41% paralysis uptime,attack:14781264594344,skill_1:14459725654459,skill_2:6135264124153,s2_paralysis:1167145775657,skill_3:7629990254004,dx:759859605451,ds:1770672843756
+602627471,_c_Philia,3*,wind,bow,5419,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,,attack:201561146,skill_1:197176536,skill_2:83662054,s2_paralysis:0,skill_3:104044489,dx:10361638,ds:24145345
 7411,Pia,4*,wind,lance,5870,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],<maintain shield & hp70>,,attack:2459,force_strike:294,skill_1:3455,skill_3:1203,team_energy:221
 5693,_c_Pia,4*,wind,lance,5503,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],!<maintain shield & hp70>,,attack:1875,force_strike:225,skill_1:2635,skill_3:904,team_energy:221
 7646,Pietro,3*,water,axe,4442,[Kung_Fu_Masters+Flower_in_the_Fray][Siren][HDT2],<>,,attack:2325,force_strike:215,skill_1:4024,skill_3:1291

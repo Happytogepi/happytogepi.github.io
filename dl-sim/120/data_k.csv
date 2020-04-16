@@ -164,8 +164,8 @@
 7237,_c_Orion,4*,shadow,dagger,6701,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15>,,attack:3142,force_strike:382,skill_1:2727,skill_2:1270
 7968,Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<hit15 & hp70>,,attack:1900,force_strike:346,skill_1:3203,skill_2:1369,skill_3:1320
 5791,_c_Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<hit15 & hp70>,,attack:1395,force_strike:254,skill_1:2320,skill_2:991,skill_3:956
-7046,Philia,3*,wind,bow,5780,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,44% paralysis uptime,attack:2668,skill_1:2289,skill_2:867,s2_paralysis:190,skill_3:1273
-5005,_c_Philia,3*,wind,bow,5419,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,,attack:1959,skill_1:1666,skill_2:642,s2_paralysis:0,skill_3:913
+48300551326386,Philia,3*,wind,bow,397431987,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hit10 & hp30 every 180s & 0 paralysis res>,42% paralysis uptime,attack:17571642645362,skill_1:14134703295720,skill_2:5997356405797,s2_paralysis:1238973543276,skill_3:6819187147186,dx:1366714723592,ds:2769395624121
+588649213,_c_Philia,3*,wind,bow,5961,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hit10 & hp30 every 180s & 0 paralysis res>,,attack:220066284,skill_1:176682430,skill_2:74966400,s2_paralysis:0,skill_3:85239157,dx:17083797,ds:34617168
 6127,Pia,4*,wind,lance,5870,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],<maintain shield & hp70>,,attack:2570,force_strike:229,skill_1:2509,skill_3:843,team_energy:207
 4736,_c_Pia,4*,wind,lance,5503,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],!<maintain shield & hp70>,,attack:1971,force_strike:178,skill_1:1925,skill_3:631,team_energy:207
 6336,Pietro,3*,water,axe,4442,[Kung_Fu_Masters+Flower_in_the_Fray][Siren][HDT2],<>,,attack:2235,force_strike:251,skill_1:3123,skill_3:929

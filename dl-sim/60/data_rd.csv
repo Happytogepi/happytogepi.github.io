@@ -164,8 +164,8 @@
 6958,_c_Orion,4*,shadow,dagger,6701,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15>,,attack:2578,force_strike:348,skill_1:2703,skill_2:1328
 7981,Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<hit15 & hp70>,,attack:1541,force_strike:308,skill_1:3332,skill_2:1424,skill_3:1373
 5818,_c_Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<hit15 & hp70>,,attack:1147,force_strike:230,skill_1:2413,skill_2:1031,skill_3:994
-7055,Philia,3*,wind,bow,5780,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,42% paralysis uptime,attack:2379,skill_1:2255,skill_2:1123,s2_paralysis:172,skill_3:1123
-5114,_c_Philia,3*,wind,bow,5419,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,,attack:1784,skill_1:1671,skill_2:851,s2_paralysis:0,skill_3:806
+41846015466286,Philia,3*,wind,bow,361301806,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,38% paralysis uptime,attack:11465940797930,skill_1:12338175543430,skill_2:4188069048812,s2_paralysis:991762340056,skill_3:5952466887060,dx:2074791246636,ds:4834809602359
+557099329,_c_Philia,3*,wind,bow,5419,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,,attack:156352634,skill_1:168246603,skill_2:57109661,s2_paralysis:0,skill_3:81169353,dx:28292381,ds:65928694
 6035,Pia,4*,wind,lance,5870,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],<maintain shield & hp70>,,attack:2200,force_strike:238,skill_1:2415,skill_3:932,team_energy:248
 4791,_c_Pia,4*,wind,lance,5503,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],!<maintain shield & hp70>,,attack:1733,force_strike:191,skill_1:1916,skill_3:701,team_energy:248
 6257,Pietro,3*,water,axe,4442,[Kung_Fu_Masters+Flower_in_the_Fray][Siren][HDT2],<>,,attack:2069,force_strike:270,skill_1:3215,skill_3:701

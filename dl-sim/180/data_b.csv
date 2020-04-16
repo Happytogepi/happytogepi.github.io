@@ -164,8 +164,8 @@
 6645,_c_Orion,4*,shadow,dagger,6701,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15>,,attack:2421,force_strike:362,skill_1:2610,skill_2:1250
 7240,Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<hit15 & hp70>,,attack:1575,force_strike:316,skill_1:2907,skill_2:1242,skill_3:1198
 5256,_c_Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<hit15 & hp70>,,attack:1151,force_strike:231,skill_1:2105,skill_2:900,skill_3:867
-6505,Philia,3*,wind,bow,5780,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,44% paralysis uptime,attack:2220,skill_1:2025,skill_2:851,s2_paralysis:173,skill_3:1233
-4595,_c_Philia,3*,wind,bow,5419,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,,attack:1618,skill_1:1468,skill_2:623,s2_paralysis:0,skill_3:885
+35318066472114,Philia,3*,wind,bow,361301806,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,41% paralysis uptime,attack:11492474045189,skill_1:10753673299598,skill_2:4562785461807,s2_paralysis:868004322098,skill_3:5674410734437,dx:649872236011,ds:1316846372970
+469769914,_c_Philia,3*,wind,bow,5419,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,,attack:156714347,skill_1:146639853,skill_2:62219327,s2_paralysis:0,skill_3:77377709,dx:8861823,ds:17956852
 5849,Pia,4*,wind,lance,5870,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],<maintain shield & hp70>,,attack:1911,force_strike:251,skill_1:2569,skill_3:894,team_energy:221
 4491,_c_Pia,4*,wind,lance,5503,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],!<maintain shield & hp70>,,attack:1453,force_strike:192,skill_1:1952,skill_3:670,team_energy:221
 5834,Pietro,3*,water,axe,4442,[Kung_Fu_Masters+Flower_in_the_Fray][Siren][HDT2],<>,,attack:1774,force_strike:180,skill_1:2936,skill_3:942

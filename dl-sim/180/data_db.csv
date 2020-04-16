@@ -164,8 +164,8 @@
 6645,_c_Orion,4*,shadow,dagger,6701,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis][Agito],!<hit15>,,attack:2421,force_strike:362,skill_1:2610,skill_2:1250
 7240,Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<hit15 & hp70>,,attack:1575,force_strike:316,skill_1:2907,skill_2:1242,skill_3:1198
 5256,_c_Orsem,4*,water,dagger,4467,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<hit15 & hp70>,,attack:1151,force_strike:231,skill_1:2105,skill_2:900,skill_3:867
-6914,Philia,3*,wind,bow,5780,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,44% paralysis uptime,attack:2360,skill_1:2153,skill_2:904,s2_paralysis:184,skill_3:1311
-4885,_c_Philia,3*,wind,bow,5419,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,,attack:1720,skill_1:1560,skill_2:662,s2_paralysis:0,skill_3:941
+37541326052193,Philia,3*,wind,bow,361301806,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,41% paralysis uptime,attack:12215921152350,skill_1:11430613165580,skill_2:4850011165338,s2_paralysis:922644881942,skill_3:6031612849015,dx:690781459501,ds:1399741378463
+499341761,_c_Philia,3*,wind,bow,5419,[Forest_Bonds+Dear_Diary][AC011_Garland][HDT2],!<maintain shield & hp100 & hp30 every 180s & 0 paralysis res>,,attack:166579459,skill_1:155870779,skill_2:66136011,s2_paralysis:0,skill_3:82248608,dx:9419671,ds:19087229
 6205,Pia,4*,wind,lance,5870,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],<maintain shield & hp70>,,attack:2033,force_strike:267,skill_1:2731,skill_3:951,team_energy:221
 4776,_c_Pia,4*,wind,lance,5503,[Resounding_Rendition+Beautiful_Nothingness][AC011_Garland][HDT2],!<maintain shield & hp70>,,attack:1550,force_strike:205,skill_1:2083,skill_3:715,team_energy:221
 6320,Pietro,3*,water,axe,4442,[Kung_Fu_Masters+Flower_in_the_Fray][Siren][HDT2],<>,,attack:1922,force_strike:196,skill_1:3181,skill_3:1020
