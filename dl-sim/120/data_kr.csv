@@ -69,8 +69,8 @@
 6126,_c_Fritz,4*,light,dagger,5607,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2],!<hit15 & hp70>,,attack:2413,force_strike:244,fs_boost:289,skill_1:2166,skill_3:763,team_buff:469
 27872,Gala_Cleo,5*,shadow,wand,5211,[Candy_Couriers+Jewels_of_the_Sun][Shinobi][Agito],<hp70 & always in a1>,(the true cleo is here),attack:3853,force_strike:0,skill_1:12618,skill_2:1783,team_buff:9967
 14331,_c_Gala_Cleo,5*,shadow,wand,4810,[Candy_Couriers+Jewels_of_the_Sun][Shinobi][Agito],!<hp70 & always in a1>,(the true cleo is here),attack:2739,force_strike:0,skill_1:7996,skill_2:1193,team_buff:2650
-17290,Gala_Elisanne,5*,water,axe,5521,[Beach_Battle+From_Whence_He_Comes][Gaibhne_and_Creidhne][HDT2],<buff all team>,,attack:5377,team_buff:12401
-4889,_c_Gala_Elisanne,5*,water,axe,5521,[Beach_Battle+From_Whence_He_Comes][Gaibhne_and_Creidhne][HDT2],!<buff all team>,,attack:5377
+22500,Gala_Elisanne,5*,water,axe,5521,[Beach_Battle+From_Whence_He_Comes][Gaibhne_and_Creidhne][HDT2],<buff all team>,,attack:5586,team_buff:17088,dx:333
+5412,_c_Gala_Elisanne,5*,water,axe,5521,[Beach_Battle+From_Whence_He_Comes][Gaibhne_and_Creidhne][HDT2],!<buff all team>,,attack:5586,dx:333
 11918,Gala_Euden,5*,light,sword,6020,[The_Shining_Overlord+Sisters_Day_Out][Cupid][HDT2],<s1 buff for 10s & draconic charge & 0 paralysis res>,c2+fs; 21% paralysis uptime,attack:1970,force_strike:1841,skill_1:1190,skill_2:1125,s2_paralysis:175,skill_3:1412,team_buff:4380
 7156,_c_Gala_Euden,5*,light,sword,6020,[The_Shining_Overlord+Sisters_Day_Out][Cupid][HDT2],!<s1 buff for 10s & draconic charge & 0 paralysis res>,c2+fs,attack:1687,force_strike:1591,skill_1:1134,skill_2:938,s2_paralysis:0,skill_3:1213,team_buff:743
 9793,Gala_Mym,5*,flame,lance,5144,[Resounding_Rendition+Beautiful_Nothingness][Konohana_Sakuya][Agito],<hp70>,,attack:2404,force_strike:344,skill_1:4991,skill_2:2270
